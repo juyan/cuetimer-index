@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Idea of CueTimer
+The idea of CueTimer is inspired by all the at-home workouts during pandemic. While the native iOS timer app works fine, I think people deserve a better app to create more complicated timers.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## Feature Requests & Feedbacks
+Any ideas of feedbacks are greatly appreciated! Please submit your feedbacks via [email](cuetimersupport@packetfly.app) or our [telegram channel](https://t.me/cuetimer).

@@ -31,6 +31,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - faq.markdown
   - about.markdown
   - privacy.markdown
 # Exclude from processing.
